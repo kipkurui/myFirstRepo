@@ -1,9 +1,7 @@
+## My First Work
 
-# My Learning GitHub Journey
+Name: John 
 
-## Lessons
+Institution: ICIPE
 
-1. Comfortably created an account
-2. Created my first repo
-3. Figured out how to use basic markdown
-4. Edited my README
+I am at the East African Open Science Tour to learn and train on Open Science.
